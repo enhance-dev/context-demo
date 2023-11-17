@@ -11,6 +11,6 @@ export default function ContextParent({ html, state }) {
    font-family: sans-serif;
  }
 </style>
-    <slot></slot>
+<slot></slot>
   `
 }
